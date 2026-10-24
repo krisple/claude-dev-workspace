@@ -1,0 +1,15 @@
+
+{
+  "name": "dev-workspace",
+  "description": "Reusable Claude Code development environment",
+  "owner": {
+    "name": "Krispi"
+  },
+  "plugins": [
+    {
+      "name": "dev-team",
+      "source": "./plugins/dev-team",
+      "description": "AI software development team and workflows"
+    }
+  ]
+}

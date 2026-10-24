@@ -1,0 +1,18 @@
+
+{
+  "name": "dev-team",
+  "displayName": "AI Development Team",
+  "version": "0.1.0",
+  "description": "Reusable AI software development team with specialized agents, engineering workflows, and quality standards for Claude Code.",
+  "author": {
+    "name": "Krispi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ai-agents",
+    "software-engineering",
+    "development-workflow",
+    "multi-agent",
+    "claude-code"
+  ]
+}
